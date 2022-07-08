@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "stc-nativebase-poc",
+    "slug": "stc-nativebase-poc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
