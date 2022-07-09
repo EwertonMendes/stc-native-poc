@@ -2,6 +2,8 @@
 
 Prova de conceito realizada para testar a integração entre as bibliotecas Styled Components e Native Base no React Native.
 
+<img src="./assets/poc.gif" alt="pré-visualização do projeto">
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
